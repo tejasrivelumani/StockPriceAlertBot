@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome AI automation in UiPath - Google Chrom",
+  "Type": "Screen",
+  "Id": "F9cpMSSE70erS4OSiq7PnA",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/F9cpMSSE70erS4OSiq7PnA",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/BNWQL-L5Q0G26Ng1b7veqA",
+  "Created": "2025-10-26T17:13:07.6691516Z",
+  "Updated": "2025-10-26T17:13:07.6691516Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

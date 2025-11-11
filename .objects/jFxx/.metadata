@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome AI automation in UiPath - Google Chrome",
+  "Type": "App",
+  "Id": "jFxx9hxIOkyNmsvHvsq_OQ",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/jFxx9hxIOkyNmsvHvsq_OQ",
+  "Created": "2025-10-26T17:13:07.5610883Z",
+  "Updated": "2025-10-26T17:13:07.5610883Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Kc51u_fAkE2OMM6KDk4wyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/MSFT" DesignTimeRectangle="29, 536, 268, 52" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' parentid='main-content-wrapper' tag='LI' /&gt;" Guid="65ae7364-1a66-4a69-be58-9a790376d4a7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Microsoft Corporation (MSFT) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="69a9a7698ab23e9eb32cc203fff949b6.png" xmlns="">0OdWGX-DVQkubaFZ7sRBKug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

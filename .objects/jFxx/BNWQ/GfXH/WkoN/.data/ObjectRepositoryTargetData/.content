@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O-QzVhCiJ0-vkE8dn5ogPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/MSFT" CVScreenId="441510fe-4fc7-4b17-bf9a-fddda48f0342" CvType="AnyWordGroup" DesignTimeRectangle="-15, 311, 606, 71" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;main&amp;gt;section&amp;gt;section&amp;gt;aside&amp;gt;section&amp;gt;div&amp;gt;section' parentid='nimbus-app' tag='SECTION' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentid='nimbus-app' tag='SECTION' class='container yf-1nznw3s displayed' aaname='   ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="d1f986c7-119f-4bfc-b88d-7e00e320e03a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Microsoft Corporation (MSFT) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="306f8a31eae9450824873707302a49dc.png" xmlns="">0Zz7W5iLQRU6CwodtGlKcOQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

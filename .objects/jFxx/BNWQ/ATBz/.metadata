@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Microsoft Corporation (MSFT) Stock Pri",
+  "Type": "Screen",
+  "Id": "ATBzykYm6kSh-gUnYxQE5A",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/ATBzykYm6kSh-gUnYxQE5A",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/BNWQL-L5Q0G26Ng1b7veqA",
+  "Created": "2025-10-26T18:25:51.3796573Z",
+  "Updated": "2025-10-26T18:25:51.3796573Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

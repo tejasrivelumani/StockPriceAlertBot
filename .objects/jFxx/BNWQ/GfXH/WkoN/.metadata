@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MSFT Microsoft Corporat…(1)",
+  "Type": "Element",
+  "Id": "WkoNl-cjZk6hvf0Ng9fivg",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/WkoNl-cjZk6hvf0Ng9fivg",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/GfXHdeoAlE-0yu7IUA7CBQ",
+  "Created": "2025-10-26T22:13:00.3106874Z",
+  "Updated": "2025-10-26T22:13:00.3106874Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

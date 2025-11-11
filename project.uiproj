@@ -1,0 +1,6 @@
+{
+  "Name": "StockPriceAlertBot",
+  "ProjectType": "Process",
+  "Description": "Blank Template",
+  "MainFile": "Main.xaml"
+}

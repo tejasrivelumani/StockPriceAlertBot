@@ -1,0 +1,13 @@
+﻿{
+  "Name": "52 Week Range 344.79 - …",
+  "Type": "Element",
+  "Id": "8Fu7U37-2UWGPoaV_R1oqA",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/8Fu7U37-2UWGPoaV_R1oqA",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/ATBzykYm6kSh-gUnYxQE5A",
+  "Created": "2025-10-26T18:39:29.8182501Z",
+  "Updated": "2025-10-26T18:39:29.8182501Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

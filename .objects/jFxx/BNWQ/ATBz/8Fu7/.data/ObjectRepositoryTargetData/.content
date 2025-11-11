@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="898z9ozJWEaTB3W4UfTn8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.yahoo.com/quote/MSFT" DesignTimeRectangle="29, 746, 268, 52" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='6' parentid='main-content-wrapper' tag='LI' /&gt;" FuzzyAccuracy="0.85" FuzzySelectorArgument="&lt;webctrl type='' parentid='main-content-wrapper' tag='LI' class='last-md yf-1qull9i' aaname='  ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="4ba01143-a2ab-40c0-849a-5522627c13e7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Microsoft Corporation (MSFT) Stock Price, News, Quote &amp;amp; History - Yahoo Finance' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="194a174f9aa8d22bc71dddab37e68cf9.png" xmlns="">0zlRNz7BO402X0fD3UN12ew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

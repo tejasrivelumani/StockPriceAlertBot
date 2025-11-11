@@ -1,0 +1,13 @@
+﻿{
+  "Name": "523.61 +3.05 (+0.59%)",
+  "Type": "Element",
+  "Id": "SgkXMUw02UqdYgIoVX_Kow",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/SgkXMUw02UqdYgIoVX_Kow",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/GfXHdeoAlE-0yu7IUA7CBQ",
+  "Created": "2025-10-26T22:18:35.0526586Z",
+  "Updated": "2025-10-26T22:18:35.0526586Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

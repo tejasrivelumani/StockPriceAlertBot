@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Open 522.49",
+  "Type": "Element",
+  "Id": "lR3dr-xaIkm1Ut-ts5L_Ew",
+  "Reference": "qQS0B2zPQUuYjmRNSpwBhg/lR3dr-xaIkm1Ut-ts5L_Ew",
+  "ParentRef": "qQS0B2zPQUuYjmRNSpwBhg/GfXHdeoAlE-0yu7IUA7CBQ",
+  "Created": "2025-10-26T19:04:13.9613647Z",
+  "Updated": "2025-10-26T19:04:13.9613647Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
