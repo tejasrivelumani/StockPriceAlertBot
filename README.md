@@ -1,12 +1,12 @@
 Stock Price Alert Bot (UiPath Project)
 
-Overview
+1.Overview
 
 The Stock Price Alert Bot is an automation solution developed in UiPath Studio that monitors live stock prices from Yahoo Finance.
 When the stock price falls below a user-defined threshold, it automatically triggers a notification alert, removing the need for manual monitoring.
 
 
-Key Features
+2.Key Features
 
 Automates live stock data extraction from Yahoo Finance
 
@@ -17,7 +17,7 @@ Displays instant alerts when conditions are met
 Uses a modular and reusable UiPath workflow design
 
 
-Technologies Used
+3.Technologies Used
 
 UiPath Studio (Community Edition)
 
@@ -28,7 +28,7 @@ Regex – String-to-numeric conversion
 Yahoo Finance – Data source
 
 
-How It Works
+4.How It Works
 
 Opens Yahoo Finance for the selected stock.
 
@@ -39,7 +39,7 @@ Compares it against the user-defined threshold.
 Displays an alert message if the price is below the limit.
 
 
-Learning Highlights
+5.Learning Highlights
 
 Real-world application of RPA in finance
 
@@ -48,7 +48,7 @@ Hands-on experience with selectors and data handling
 Workflow design for efficiency and reliability
 
 
-Future Enhancements
+6.Future Enhancements
 
 Email or SMS-based alerts
 
